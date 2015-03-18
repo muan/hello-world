@@ -1,9 +1,9 @@
-# hello-world
+## hello-world
 
 Are you a beginner? send your test pull requests here! Someone will review (and merge) them.<br>
 這裡是新手練習場，歡迎送 pull requests 過來 :smile: 會有人檢查並且接收你的修改。
 
-## Not sure what to do? 不知道可以做些什麼嗎?
+### Not sure what to do? 不知道可以做些什麼嗎?
 
 It's hard to get started when you're not sure about what to do, so here are some suggestions：<br>
 不知道做什麼總是最困難的第一關，所以我這邊給你一些建議：
@@ -20,7 +20,7 @@ It's hard to get started when you're not sure about what to do, so here are some
 
   (:+1: 加分) 把 `human.txt` 裡頭的內容按照英文字母順序排序。
 
-## Not sure how to do it? 不知道怎麼做嗎？
+### Not sure how to do it? 不知道怎麼做嗎？
 
 1. You should **fork** this repository using the <kbd>Fork</kbd> button on the top right, see [this guide](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository).
   
@@ -30,13 +30,13 @@ It's hard to get started when you're not sure about what to do, so here are some
 
   接著你可以修改你 fork 的計畫內容。最簡單的方式就是使用 GitHub 網站上的修改檔案介面，你可以參考[這個教學文件](https://guides.github.com/activities/hello-world/#branch)。在開始之前，請注意你所在的網址應該要長這樣：`https://github.com/你的使用者名稱/hello-world`。
 
-## Problems? 有問題嗎？
+### Problems? 有問題嗎？
 
 Feel free to [**create an issue**](https://github.com/muan/hello-world/issues/new) when you have questions.
 
 如果有任何問題的話，儘管隨時建立一個 [issue](https://github.com/muan/hello-world/issues/new) 來詢問。
 
-## Finally
+### Finally
 
 This repository should be safe place for everyone to try things in. Be nice to each other.<br>
 
