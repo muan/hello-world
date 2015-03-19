@@ -1,7 +1,12 @@
 ## hello-world
 
 Are you a beginner? send your test pull requests here! Someone will review (and merge) them.<br>
+
+If you're looking for resources to learn about web programming, checkout @jlord's [hello-world content](https://github.com/jlord/hello-world/blob/master/code-life.md).
+
 這裡是新手練習場，歡迎送 pull requests 過來 :smile: 會有人檢查並且接收你的修改。
+
+如果你想要找學習網頁程式的資源，快去看看 @jlord 的 [hello-world 內容](https://github.com/jlord/hello-world/blob/master/code-life.md)。
 
 ### Not sure what to do? 不知道可以做些什麼嗎?
 
