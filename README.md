@@ -20,6 +20,10 @@ It's hard to get started when you're not sure about what to do, so here are some
 
   (:+1: 加分) 把 `human.txt` 裡頭的內容按照英文字母順序排序。
 
+- (:+1: Bonus) Add some fun content to your own file. Check out mine: https://muan.co/hello-world/muan.html
+
+  (:+1: 加分) 在你個人的檔案中加入一些有趣的內容！例如我的檔案長這樣：https://muan.co/hello-world/muan.html
+
 ### Not sure how to do it? 不知道怎麼做嗎？
 
 1. You should **fork** this repository using the <kbd>Fork</kbd> button on the top right, see [this guide](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository).
