@@ -8,6 +8,8 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 
 [`正體中文的介紹檔案`](https://github.com/muan/hello-world/blob/gh-pages/README-zhtw.md)
 
+[`简体中文的介绍文件`](README-zhcn.md)
+
 ### Not sure what to do?
 
 It's hard to get started when you're not sure about what to do, so here are some suggestions：
