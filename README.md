@@ -1,6 +1,6 @@
 ## hello-world
 
-Are you a beginner? send your test pull requests here! Someone will review (and merge) them.
+Are you a beginner? Send your test pull requests here! Someone will review (and merge) them.
 
 If you're looking for resources to learn about web programming, checkout @jlord's [hello-world content](https://github.com/jlord/hello-world/blob/master/code-life.md).
 
@@ -10,7 +10,7 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 
 ### Not sure what to do?
 
-It's hard to get started when you're not sure about what to do, so here are some suggestions：
+It's hard to get started when you're not sure about what to do, so here are some suggestions:
 
 - Try adding a file with your username in the title. For example, my username is **muan**, so I'd create a file named `muan.html`, like [this](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). It can be any type of files you want, may it be `muan.md`, `muan.txt`, or just `muan`.
 
@@ -23,7 +23,7 @@ It's hard to get started when you're not sure about what to do, so here are some
 ### Not sure how to do it?
 
 1. You should **fork** this repository using the <kbd>Fork</kbd> button on the top right, see [this guide](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository).
-  
+
 2. Make your changes on your fork however you want. The easiest way is to make them through GitHub's interface. See [this guide](https://guides.github.com/activities/hello-world/#branch) for details. Note that you should be on a url like `https://github.com/your_username/hello-world` when you follow the steps in the guide.
 
 ### Problems?
@@ -32,6 +32,6 @@ Feel free to [**create an issue**](https://github.com/muan/hello-world/issues/ne
 
 ### Finally
 
-This repository should be safe place for everyone to try things in. Be nice to each other.<br>
+This repository should be safe place for everyone to try things in. Be nice to each other.
 
-If you're already an experienced GitHub user and wants to help, please create an issue, add the `i can help` label to it, and I'll see to add you as a collaborator, so you'll be able to merge pull requests here. Before that happens, feel free to review pull requests and comment when someone needs help.<br>
+If you're already an experienced GitHub user and wants to help, please create an issue, add the `i can help` label to it, and I'll see to add you as a collaborator, so you'll be able to merge pull requests here. Before that happens, feel free to review pull requests and comment when someone needs help.
