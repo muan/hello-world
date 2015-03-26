@@ -8,7 +8,7 @@
 
 不知道做什麼總是最困難的第一關，所以我這邊給你一些建議：
 
-- 試著新增一個檔案，檔名就用你的使用者名稱。例如我的使用者名稱叫做 **muan**，我就建立一個叫做 `muan.html` 的檔案，像[這樣](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec)。這個檔案的附檔名你可以自己決定，它可以叫 `muan.md`、`muan.txt`、或是直接只叫 `muan`。
+- 試著新增一個檔案，檔名就用你的使用者名稱。例如我的使用者名稱叫做 **muan**，我就建立一個叫做 `muan.html` 的檔案，像[這樣](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec)。這個檔案的副檔名你可以自己決定，它可以叫 `muan.md`、`muan.txt`、或是直接只叫 `muan`。
 
 - 把你的名字加到 `human.txt` 這個檔案裡頭。
 
