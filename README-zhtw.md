@@ -30,4 +30,4 @@
 
 這個 repository 應該是一個安全的地方，可以讓任何人試著學習使用 GitHub。請友善地互相對待。
 
-如果你已經是個資深的 GitHub 使用者，而且想要幫忙，麻煩開啟一個新的 issue，並且把它加上 `i can help` 的 label。我會把你加成 collaborator，這樣一來你就會可以 merge 大家的 pull reuqests 了。在我加你之前，如果看到有人需要幫忙，歡迎你隨時檢查 pull requests 並且留言幫助他們。
+如果你已經是個資深的 GitHub 使用者，而且想要幫忙，請將你的使用者名稱添加到[MAINTAINERS list](MAINTAINERS.md) 這個檔案中，並發起一個 pull request。我會在把你加成 collaborator 之後 merge 你的 pull request，這樣一來你就會可以 merge 大家的 pull reuqests 了。在我加你之前，如果看到有人需要幫忙，歡迎你隨時檢查 pull requests 並且留言幫助他們。

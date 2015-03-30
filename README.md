@@ -35,4 +35,4 @@ Feel free to [**create an issue**](https://github.com/muan/hello-world/issues/ne
 
 This repository should be safe place for everyone to try things in. Be nice to each other.
 
-If you're already an experienced GitHub user and wants to help, please add your username to the [MAINTAINERS list](https://github.com/muan/hello-world/blob/gh-pages/MAINTAINERS.md), create a pull request, and I'll merge it after adding you as a collaborator, so you'll be able to merge pull requests in the future. Before that happens, feel free to review pull requests and comment when someone needs help.
+If you're already an experienced GitHub user and wants to help, please add your username to the [MAINTAINERS list](MAINTAINERS.md), create a pull request, and I'll merge it after adding you as a collaborator, so you'll be able to merge pull requests in the future. Before that happens, feel free to review pull requests and comment when someone needs help.

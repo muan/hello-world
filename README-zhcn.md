@@ -1,14 +1,14 @@
 ## hello-world
 
-这里是新手练习场，欢迎发送 pull requests 过来 :smile: 会有人检查并且接收你的修改。
+这里是新手练习场，欢迎发送 pull requests :smile: 会有人检查并且接收你的修改。
 
 如果你想要找学习网页编程的资源，快去看看 @jlord 的 [hello-world 内容](https://github.com/jlord/hello-world/blob/master/code-life.md)。
 
 ### 不知道可以做些什么吗?
 
-不知道做什么总是最困难的第一关，所以我这里给你提供一些建议：
+不知道做什么总是最困难的第一关，所以我在这里给你提供一些建议：
 
-- 试着新增一个文件，文件名就用你的用户名称。例如我的用户名称叫做 **muan**，我就建立一个叫做 `muan.html` 的文件，像[这样](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec)。这个文件的副标题你可以自己决定，它可以叫 `muan.md`、`muan.txt`、或是直接只叫 `muan`。
+- 试着新增一个文件，文件名就用你的用户名。例如我的用户名叫做 **muan**，我就建立一个叫做 `muan.html` 的文件，像[这样](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec)。这个文件的副标题你可以自己决定，它可以叫 `muan.md`、`muan.txt`、或是直接只叫 `muan`。
 
 - 把你的名字加到 `human.txt` 这个文件里面。
 
@@ -30,4 +30,4 @@
 
 这个 repository 应该是一个安全的地方，可以让任何人试着学习使用 GitHub。请友善地互相对待。
 
-如果你已经是个资深的 GitHub 使用者，而且想要帮忙，麻烦开启一个新的 issue，并且把它加上 `i can help` 的 label。我会把你加成 collaborator，这样一来你就会可以 merge 大家的 pull reuqests 了。在我加你之前，如果看到有人需要帮忙，欢迎你随时检查 pull requests 并且留言帮助他们。
+如果你已经是个资深的 GitHub 使用者，而且想要帮忙，请将你的用户名添加到[MAINTAINERS list](MAINTAINERS.md) 这个文件中，并发起一个 pull request。我会在把你加成 collaborator 之后 merge 你的 pull request，这样一来你就可以 merge 大家的 pull reuqests 了。在我加你之前，如果看到有人需要帮忙，欢迎你随时检查 pull requests 并且留言帮助他们。
