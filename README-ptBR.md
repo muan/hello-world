@@ -20,7 +20,7 @@ Se você está procurando por recursos para aprender sobre programação, de uma
 
 1. Você deve dar um **fork** nesse repositório usando o botão de <kbd>Fork</kbd> no canto superior direito, veja [esse guia](https://help.github.com/articles/fork-a-repo/#fork-an-example-repository).
 
-2. Você suas mudanças no seu fork da maneira que você queira. A maneira mais fácil é fazê-las pela interface do GitHub. Veja [esse guia](https://guides.github.com/activities/hello-world/#branch) para mais detalhes. Note que você deve estar numa url assim `https://github.com/seu_nome_de_usuario/hello-world` quando você estiver seguindo os passos desse tutorial.
+2. Faça suas mudanças no seu fork da maneira que você queira. A maneira mais fácil é fazê-las pela interface do GitHub. Veja [esse guia](https://guides.github.com/activities/hello-world/#branch) para mais detalhes. Note que você deve estar numa url assim `https://github.com/seu_nome_de_usuario/hello-world` quando você estiver seguindo os passos desse tutorial.
 
 ### Problemas?
 
