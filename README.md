@@ -8,6 +8,7 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 
 - [`正體中文的介紹檔案`](README-zhtw.md)
 - [`简体中文的介绍文件`](README-zhcn.md)
+- [`Readme em Português (BR)`](README-ptBR.md)
 
 ### Not sure what to do?
 
