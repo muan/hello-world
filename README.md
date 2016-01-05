@@ -10,6 +10,7 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 - [`简体中文的介绍文件`](README-zhcn.md)
 - [`Readme em Português (BR)`](README-ptBR.md)
 - [`Readme en Español (LA)`](README-spLA.md)
+- [`Руководство на русском`](README-ru.md)
 
 ### Not sure what to do?
 
