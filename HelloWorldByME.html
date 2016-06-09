@@ -1,0 +1,25 @@
+<html>
+<head>
+<title>Hello World!</title>
+</head>
+<body>
+  <div id="Text">
+    <a> Hello World </a>
+  </text>
+</body>
+<style>
+#Text{
+  Color : red;
+  font-size: 20px;
+}
+</style>
+<script>
+  setInterval(function(){
+    elem = document.getElementById("Text");
+    if(elem.style.color=="blue")  
+      elem.style.color = "red";
+    else 
+      elem.style.color = "blue";
+  },1000);
+</script>
+</html>
