@@ -1,0 +1,16 @@
+<html>
+  <head>
+    <title> Hello, World. </title>
+      <style>
+        body{
+          font-family: "Courier", monospace;
+          padding: 10% 15px;
+          text-align: center;
+          }
+          </style>
+    </head>
+    
+    <body>
+      <p> This is my HTML doc </p>
+      
+    </body>
