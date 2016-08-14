@@ -8,3 +8,4 @@
 - [dexterbrylle](https://github.com/dexterbrylle)
 - [aaossa](https://github.com/aaossa)
 - [yegorov](https://github.com/Yegorov)
+- [patriciaa](https://github.com/patriciaa)
