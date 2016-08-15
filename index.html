@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Hello, world.</title>
-    
+
     <style>
       body {
         font-family: courier, monospace;
@@ -10,12 +10,40 @@
         font-size: 13px;
         line-height: 1.65em;
       }
+
+      img {
+        margin: 10px 10px 0;
+      }
     </style>
   </head>
 
   <body>
-    Hello, world.<br><br>
-    <a href="human.txt">Check out human.txt</a><br>
-    <a href="https://github.com/muan/hello-world">Contribute</a>
+    <p>Hello, world.</p>
+    <p>
+      <a href="human.txt">Check out human.txt</a><br>
+      <a href="https://github.com/muan/hello-world">Contribute</a>
+    </p>
+
+    <script type="text/javascript">
+      fetch('./human.txt').then(function (data) {
+        return data.text()
+      }).then(function (data) {
+        const logins = data.split('\n')
+        logins.forEach(function (login) {
+          if(!login) return
+
+          const a = document.createElement('a')
+          a.href = 'https://github.com/' + login
+          const image = new Image(30, 30)
+          image.src = 'https://github.com/' + login + '.png'
+          a.appendChild(image)
+          document.body.appendChild(a)
+
+          image.onerror = function () {
+            a.remove()
+          }
+        })
+      })
+    </script>
   </body>
 </html>
