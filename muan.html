@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>Hello, world.</title>
-    
+
     <style>
       body {
         font-family: courier, monospace;
@@ -9,14 +9,33 @@
         text-align: center;
         font-size: 13px;
         line-height: 1.65em;
+        margin: 0;
+        background-image: linear-gradient(45deg, #f3ffd9, #ffe4e4, #fffce6);
+      }
+
+      body:before {
+        background-image: linear-gradient(300deg, #e9ffba, #f0f0f0, #ffeccf);
+        animation: you infinite alternate 1s;
+        content: '';
+        display: block;
+        position: absolute;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        right: 0;
+        z-index: -1;
+      }
+
+      @keyframes you {
+        0% { opacity: 0; }
+        100% { opacity: 1; }
       }
     </style>
   </head>
 
   <body>
-    Hi, this is muan.html.<br><br>
-    <a href="http://emoji.muan.co">Check out my emoji searcher</a><br>
-    🙆🙆🙆🙆🙆🙆🙆
+    <p>Hi, this is muan.html.</p>
+    <p><a href="http://muan.co/emoji-minesweeper">Check out my emoji minesweeper</a>, <a href="https://github.com/muan">my github profile</a>, or <a href="https://twitter.com/muanchiou">my tweets</a>.</p>
+    <p>💣💣💣💣💣💣</p>
   </body>
 </html>
-
