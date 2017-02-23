@@ -1,12 +1,12 @@
 ## hello-world
 
-¿Es un principiante? ¡Envíe sus pull requests aquí! Alguién las revisará (y agregará).
+¿Es un principiante? ¡Envíe sus pull requests aquí! Alguien las revisará (y agregará).
 
 Si está buscando recursos para aprender sobre programación, dé una mirada al [contenido de hello-world](https://github.com/jlord/hello-world/blob/master/code-life.md) de @jlord.
 
 ### ¿No está seguro de qué hacer?
 
-Es difícil empezar cuando no se está seguro de qué hacer, por lo que aquí están algunas sugerencias:
+Es difícil empezar cuando no se está seguro de qué hacer, por lo que aquí hay algunas sugerencias:
 
 - Intente agregar un archivo con su nombre de usuario en el título. Por ejemplo, mi nombre de usuario es **muan**, entonces crearé un archivo llamado `muan.html`, como [este](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). Puede ser cualquier tipo de archivo que usted quiera, podría ser `muan.md`, `muan.txt`, o simplemente `muan`.
 
