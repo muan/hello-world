@@ -15,6 +15,7 @@ erickao
 et10man
 Evelenka
 gagaradio
+JeffChern
 jhoebuzz
 jinweizhao
 joshhartigan
@@ -37,5 +38,3 @@ wavecro
 yanghuashuai
 yegorov
 yiwenhuang
-JeffChern
-
