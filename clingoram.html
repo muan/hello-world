@@ -1,0 +1,166 @@
+<html>
+<head>
+    <title>Hello World</title>
+    <meta charset="utf-8" />
+    <style>
+    * {
+        margin: 0;
+        padding: 0;
+    } 
+    body {
+        background: #083952;
+        color: #fff;
+        font-family: "Monaco", Inconsolata, monospace;
+        font-size: 25px;
+    }    
+    a {
+        text-decoration: none;
+        color: #fff;
+    }    
+    a:hover {
+        color: #0f868e;
+    }    
+    #typedtext {
+        position: absolute;
+        left: 36%;
+        top: 30%;
+    }
+    
+    /*$ */    
+    .dollar {
+        display: block;
+        width: 420px;
+        overflow: hidden;
+        white-space: nowrap;
+        transform: translateY(-50%);
+    }   
+    .dollar:before {
+        content: '$';
+        color: #52a563;
+    }
+    .dollar:nth-child(n) {
+        animation: typewriting 4s steps(44) 30s 1 normal both;
+        color: #b62246;
+    }    
+    .dollar:nth-child(1) {
+        animation: typewriting 4s steps(44) 1s 1 normal both;
+        color: #b62246;
+    }
+    .dollar:nth-child(2) {
+        animation: typewriting 4s steps(44) 8s 1 normal both;
+        color: #b62246;
+    }
+    .dollar:nth-child(3) {
+        animation: typewriting 4s steps(44) 12s 1 normal both;
+        color: #b62246;
+    }
+
+    .dollar:nth-child(4) {
+        animation: typewriting 4s steps(44) 16s 1 normal both;
+        color: #b62246;
+    }
+    .dollar:nth-child(7) {
+        animation: typewriting 4s steps(44) 22s 1 normal both;
+        color: #b62246;
+    }
+    .dollar:nth-child(8) {
+        animation: typewriting 4s steps(44) 26s 1 normal both;
+        color: #b62246;
+    }
+    .dollar:last-child {
+        animation: typewriting 4s steps(44) 34s 1 normal both;
+        color: #b62246;
+    }
+    /*input*/    
+    #reply {
+        background: none;
+        position: absolute;
+        height: 25px;
+        left: 180px;
+        border: none;
+        border-bottom: solid 1px #fff;
+        color: #fff;
+        font-size: 22px;
+        width: 120px;
+    }
+    #submit {
+        position: absolute;
+        top: 6px;
+        left: 300px;
+        border: none;
+        background: none;
+        color: #fff;
+    }
+    
+    /*input result*/
+    #showme {
+        position: absolute;
+        top: 73px;
+        left: 110px;
+        color: #ffd800;
+        text-transform: capitalize;
+    }
+    /*span :_*/
+    .wrap {
+        animation: blink 1s infinite;
+    }
+    ::selection {
+        background: #aafaff;
+        color: #fff;
+    }
+    
+    /*animation*/
+    @keyframes typewriting {
+        from {
+            width: 0;
+        }
+        to {
+            width: 450px;
+            color: #fff;
+        }
+    }
+    @keyframes blink {
+        to {
+            opacity: .0;
+        }
+    }
+    </style>
+</head>
+
+<body>
+    <div id="typedtext">
+        <div class="intro">
+            <p class="dollar"> hi! i'm mavis</p>
+            <p class="dollar"> what's your name</p>
+            <p class="dollar"> user input:
+                <input type="text" id="reply" placeholder="your name" />
+                <input type="submit" id="submit" value="Confirm" />
+            </p>
+            <p class="dollar"> hello!<div class="showme" id="showme"></div></p>
+            <p class="dollar"> nice to meet you</p>
+            <p class="dollar"> this's my <a href="https://clingoram.github.io/web/">Blog</a>, and my <a href="https://github.com/clingoram"> GitHub</a></p>
+            <p class="dollar"> catch u later</p>
+            <p class="dollar"> exit <span class="wrap">_</span></p>
+        </div>
+    </div>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>
+    $(function() {
+        console.log('working');
+
+        function userName() {
+            var keyword = document.getElementById('reply').value;
+            var show = document.getElementById('showme').innerHTML = ' ';
+            var submit = document.getElementById('submit');
+
+            if (keyword != "" && keyword != null) {
+                $('#showme').text(" " + keyword);
+            } else {
+                $('#showme').text(" " + "Guest");
+            };
+        }
+        document.getElementById('submit').addEventListener('click', userName, false);
+    })
+    </script>
+</body>
+</html>
