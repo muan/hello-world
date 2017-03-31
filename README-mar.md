@@ -2,7 +2,7 @@
 
 आपण नवशिक्या आहे का? चाचणी खेचणे आपली विनंती पाठवा! कोणताही पुनरावलोकन (विलीन) त्यांना.
 
-आपण वेब प्रोग्रामिंग स्त्रोत जाणून घेण्यासाठी शोधत असाल तर, चेकआऊट @ jlord च्या [हॅलो जग सामग्री] (https://github.com/jlord/hello-world/blob/master/code-life.md).
+आपण वेब प्रोग्रामिंग स्त्रोत जाणून घेण्यासाठी शोधत असाल तर, चेकआऊट @ jlord च्या [हॅलो जग सामग्री] ( https://github.com/jlord/hello-world/blob/master/code-life.md ).
 
 [正 體 中文 的 介紹 檔案] (README-zhtw.md)
 [简体 中文 的 介绍 文件] (README-zhcn.md)
