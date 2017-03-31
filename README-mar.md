@@ -4,11 +4,12 @@
 
 आपण वेब प्रोग्रामिंग स्त्रोत जाणून घेण्यासाठी शोधत असाल तर, चेकआऊट @ jlord च्या [हॅलो जग सामग्री] ( https://github.com/jlord/hello-world/blob/master/code-life.md ).
 
-[正 體 中文 的 介紹 檔案] (README-zhtw.md)
-[简体 中文 的 介绍 文件] (README-zhcn.md)
-[रीडमी ईएम पोर्तुगीज (BR)] (README-ptBR.md)
-[रीडमी इं Español (LA) वर] (README-spLA.md)
-[Руководство на русском] (README-ru.md)
+- [`正體中文的介紹檔案`](README-zhtw.md)
+- [`简体中文的介绍文件`](README-zhcn.md)
+- [`Readme em Português (BR)`](README-ptBR.md)
+- [`Readme en Español (LA)`](README-spLA.md)
+- [`Руководство на русском`](README-ru.md)
+- [`বাংলা গাইড`](README-bn.md)
 
 # काय करावे याची खात्री नाही?
 
