@@ -12,6 +12,8 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 - [`Readme en Español (LA)`](README-spLA.md)
 - [`Руководство на русском`](README-ru.md)
 - [`বাংলা গাইড`](README-bn.md)
+- [`मुझे पढें`](README-hindi.md)
+- [`मला वाचा`](README-mar.md)
 
 ### Not sure what to do?
 
