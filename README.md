@@ -23,7 +23,7 @@ It's hard to get started when you're not sure about what to do, so here are some
 
 - (:+1: Bonus) Sort the `human.txt`, so the file is in an alphabetical order.
 
-- (:+1: Bonus) Add some fun content to your own file. Check out mine: http://muan.co/hello-world/muan.html
+- (:+1: Bonus) Add some fun content to your own file. Check out mine: http://muan.co/hello-world/humans/muan.html
 
 ### Not sure how to do it?
 
