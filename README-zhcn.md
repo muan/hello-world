@@ -14,7 +14,7 @@
 
 - (:+1: 加分) 把 `human.txt` 里面的内容按照英文字母顺序排序。
 
-- (:+1: 加分) 在你个人的文件中加入一些有趣的內容！例如我的文件长这样：http://muan.co/hello-world/muan.html
+- (:+1: 加分) 在你个人的文件中加入一些有趣的內容！例如我的文件长这样：http://muan.co/hello-world/humans/muan.html
 
 ### 不知道怎么做吗？
 
