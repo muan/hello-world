@@ -17,7 +17,7 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 
 It's hard to get started when you're not sure about what to do, so here are some suggestions:
 
-- Try adding a file with your username in the title. For example, my username is **muan**, so I'd create a file named `muan.html`, like [this](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). It can be any type of files you want, may it be `muan.md`, `muan.txt`, or just `muan`.
+- Try adding a file in the `humans` directory with your username in the file title. For example, my username is **muan**, so I'd create a file named `muan.html`, like [this](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). It can be any type of files you want, may it be `muan.md`, `muan.txt`, or just `muan`.
 
 - Add your username to `human.txt`.
 
