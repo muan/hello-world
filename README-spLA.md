@@ -14,7 +14,7 @@ Es difícil empezar cuando no se está seguro de qué hacer, por lo que aquí ha
 
 - (:+1: Bonus) Ordene el archivo `human.txt`, para que el archivo permanezca en orden alfabético.
 
-- (:+1: Bonus) Agregue algún contenido entretenido a su propio archivo. Dele una mirada al mío: http://muan.co/hello-world/muan.html
+- (:+1: Bonus) Agregue algún contenido entretenido a su propio archivo. Dele una mirada al mío: http://muan.co/hello-world/humans/muan.html
 
 ### ¿No está seguro de cómo hacer eso?
 

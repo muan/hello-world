@@ -12,18 +12,20 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 - [`Readme en Español (LA)`](README-spLA.md)
 - [`Руководство на русском`](README-ru.md)
 - [`বাংলা গাইড`](README-bn.md)
+- [`मुझे पढें`](README-hindi.md)
+- [`मला वाचा`](README-mar.md)
 
 ### Not sure what to do?
 
 It's hard to get started when you're not sure about what to do, so here are some suggestions:
 
-- Try adding a file with your username in the title. For example, my username is **muan**, so I'd create a file named `muan.html`, like [this](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). It can be any type of files you want, may it be `muan.md`, `muan.txt`, or just `muan`.
+- Try adding a file in the `humans` directory with your username in the file title. For example, my username is **muan**, so I'd create a file named `muan.html`, like [this](https://github.com/muan/hello-world/commit/a25ce6ab6d71fa3e7311e90538eee3f797b29aec). It can be any type of files you want, may it be `muan.md`, `muan.txt`, or just `muan`.
 
 - Add your username to `human.txt`.
 
 - (:+1: Bonus) Sort the `human.txt`, so the file is in an alphabetical order.
 
-- (:+1: Bonus) Add some fun content to your own file. Check out mine: http://muan.co/hello-world/muan.html
+- (:+1: Bonus) Add some fun content to your own file. Check out mine: http://muan.co/hello-world/humans/muan.html
 
 ### Not sure how to do it?
 

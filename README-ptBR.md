@@ -14,7 +14,7 @@ Se você está procurando por recursos para aprender sobre programação, de uma
 
 - (:+1: Bônus) Organize o arquivo `human.txt`, para que ele permaneça em ordem alfabética.
 
-- (:+1: Bônus) Adicione alguma coisa legal para seu próprio arquivo. De uma olhada no meu: http://muan.co/hello-world/muan.html
+- (:+1: Bônus) Adicione alguma coisa legal para seu próprio arquivo. De uma olhada no meu: http://muan.co/hello-world/humans/muan.html
 
 ### Não tem certeza como fazer isso?
 
