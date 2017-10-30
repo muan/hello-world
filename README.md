@@ -1,6 +1,6 @@
 ## hello-world
 
-Are you a beginner? Send your test pull requests here! Someone will review (and merge) them.
+Are you a Professional? you must be know okay.
 
 If you're looking for resources to learn about web programming, checkout @jlord's [hello-world content](https://github.com/jlord/hello-world/blob/master/code-life.md).
 
