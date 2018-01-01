@@ -3,7 +3,89 @@
     <head>
         <title>genesis331</title>
         <meta charset="utf-8">
+        <link href="https://fonts.googleapis.com/css?family=Alegreya" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+        <style>
+            .h1 img {
+                height: 3%;
+                width: 3%;
+                padding-right: 3%;
+                padding-top: 1%;
+                float: right;
+            }
+            @keyframes typing {
+                from { width: 0 }
+                to { width: 100% }
+            }
+            @keyframes blink-caret {
+                from, to { border-color: transparent }
+                50% { border-color: black; }
+            }
+            @keyframes colorChangeToBW {
+                from {background-color: transparent;color: black}
+                to {background-color: black;color: white}
+            }
+            @keyframes colorChangeFromBW {
+                from {background-color: black;color: white}
+                to {background-color: transparent;color: black}
+            }
+            .mainpage {
+                animation-name: colorChangeFromBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .mainpage:hover {
+                animation-name: colorChangeToBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .blog {
+                animation-name: colorChangeFromBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .blog:hover {
+                animation-name: colorChangeToBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .projects {
+                animation-name: colorChangeFromBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .projects:hover {
+                animation-name: colorChangeToBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .github {
+                animation-name: colorChangeFromBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+            .github:hover {
+                animation-name: colorChangeToBW;
+                animation-duration: 0.3s;
+                animation-fill-mode: both;
+            }
+        </style>
     </head>
     <body>
+        <div class="h1" style="display: block;width: 100%">
+            <a href="https://www.facebook.com/zixucheah331" target="_blank"><img src="https://facebookbrand.com/wp-content/themes/fb-branding/prj-fb-branding/assets/images/fb-art.png"></a>
+        </div>
+        <div class="main-container" style="padding-left: 39%; padding-top: 15%;padding-right: 39%">
+        <div class="main" style="font-size: 3rem;font-family: 'Alegreya', serif; overflow: hidden;border-right: .10em solid black; white-space: nowrap; margin: auto auto; letter-spacing: .1em;animation: typing 1s steps(40, end),blink-caret .75s step-end infinite;right: 30%;animation-delay: 1s;animation-fill-mode: both">
+        Hello World</div>
+        </div>
+        <div class="name" style="text-align: center;font-family: 'Nunito', sans-serif;">genesis331</div>
+        <div class="links" style="text-align: center;padding-top: 3%">
+            <a href="https://genesis331.github.io/zixucheah331/" target="_blank"><span class="mainpage" style="display: inline-block;padding: 1rem;border: 1px solid black;font-size: 1rem;margin-left: 1rem; margin-right: 1rem;border-radius: 3px;cursor: pointer;margin-top: 1rem;min-width: auto;font-family: 'Raleway', sans-serif;padding-left: 1.2rem;padding-right: 1.2em">Introduction</span></a>
+            <a href="https://genesis331.github.io/zixucheah331/blog/" target="_blank"><span class="blog" style="display: inline-block;padding: 1rem;padding-right: 2.9rem;padding-left: 2.9rem; border: 1px solid black;margin-left: 1rem;margin-right: 1rem;border-radius: 3px;cursor: pointer;margin-top: 1rem;min-width: auto;font-family: 'Raleway', sans-serif;">Blog</span></a>
+            <a><span class="projects" style="display: inline-block;padding: 1rem;padding-right: 2.1rem;padding-left: 2.1rem; border: 1px solid black;border-radius: 3px;cursor: pointer;margin-top: 1rem;margin-left: 1rem;margin-right: 1rem;font-family: 'Raleway', sans-serif;">Projects</span></a>
+            <a href="https://github.com/genesis331" target="_blank"><span class="github" style="display: inline-block;padding: 1rem;padding-right: 2.4rem;padding-left: 2.4rem; border: 1px solid black;border-radius: 3px;cursor: pointer;margin-top: 1rem;margin-left: 1rem;margin-right: 1rem;font-family: 'Raleway', sans-serif;">Github</span></a>
+        </div>
     </body>
 </html>
