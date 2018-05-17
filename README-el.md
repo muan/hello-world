@@ -1,8 +1,7 @@
 ## hello-world
 
 Είστε αρχάριος; Στείλτε τα δοκιμαστικά pull αιτήματά σας εδώ! Κάποιος θα τα ελέγξει και θα τα ενσωματώσει.
-
-Αν ψάχνετε για πόρους προκειμένου να μάθετε για τον προγραμματισμό ιστού, δείτε το περιεχόμενο του χρήστη @jlord [hello-world content](https://github.com/jlord/hello-world/blob/master/code-life.md).
+Αν ψάχνετε υλικό για να μάθετε για τον προγραμματισμό ιστού, δείτε το περιεχόμενο του χρήστη @jlord [`hello-world content`](https://github.com/jlord/hello-world/blob/master/code-life.md).
 ---
 
 - [`正體中文的介紹檔案`](README-zhtw.md)
@@ -13,7 +12,7 @@
 - [`বাংলা গাইড`](README-bn.md)
 - [`मुझे पढें`](README-hindi.md)
 - [`मला वाचा`](README-mar.md)
-- [Οδηγίες στα Ελληνικά](README-el.md)
+- [`Οδηγίες στα Ελληνικά`](README-el.md)
 
 ### Δεν είστε σίγουροι για το τι πρέπει να κάνετε?
 
