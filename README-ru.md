@@ -11,6 +11,11 @@
 - [`Readme em Português (BR)`](README-ptBR.md)
 - [`Readme en Español (LA)`](README-spLA.md)
 - [`Руководство на русском`](README-ru.md)
+- [`বাংলা গাইড`](README-bn.md)
+- [`मुझे पढें`](README-hindi.md)
+- [`मला वाचा`](README-mar.md)
+- [`Οδηγίες στα Ελληνικά`](README-el.md)
+
 
 ### Не знаете с чего начать?
 
