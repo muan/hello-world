@@ -10,3 +10,4 @@
 - [yegorov](https://github.com/Yegorov)
 - [patriciaa](https://github.com/patriciaa)
 - [SubhrajyotiSen](https://github.com/SubhrajyotiSen)
+- [lee.wp14](https://github.com/leewp14)
