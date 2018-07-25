@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Humans - Hello, world.</title>
+    <style>
+        body a {
+            font-family: courier, monospace;
+            /* padding: 10%; */
+            text-align: center;
+            font-size: 13px;
+            line-height: 1.65em;
+        }
+    </style>
+    <script>
+        function fetchHumans() {
+            var api = 'https://api.github.com/repos/muan/hello-world/contents/humans';
+            var page = 'https://muan.github.io/hello-world/'
+
+            var xmlhttp = new XMLHttpRequest();
+            xmlhttp.onreadystatechange = function () {
+                if (this.readyState == 4 && this.status == 200) {
+                    var respond = JSON.parse(this.responseText);
+                    var humans = ['<a>Hello, world. </a> <a href="https://muan.github.io/hello-world/">[home]</a> <a href="https://github.com/muan/hello-world/">[contribute]</a> <br>', '<a>humans without extension are not viewable inside browser :/ </a><br><br>'];
+                    for (i in respond) {
+                        fileName = respond[i].name;
+                        filePath = respond[i].path;
+                        fileURL = page + filePath;
+                        var currentCount = parseInt(i);
+                        currentCount = currentCount + 1;
+                        humans.push('<a>' + currentCount + '.</a>' + "<a href='" + fileURL + "'>" + fileName + "</a><br>");
+                    }
+                    document.getElementsByTagName('body')[0].innerHTML = humans.join('');
+                }else if(this.readyState == 4 && this.status == 403){
+                    document.getElementsByTagName('body')[0].innerHTML = '<a>OPPSSS!<br>looks like you visited this page a little too frequent, and github is <a href="https://developer.github.com/v3/#rate-limiting">unhappy</a><a> about it :(</a>';
+                }
+            };
+            xmlhttp.open("GET", api, true);
+            xmlhttp.send();
+        }
+    </script>
+</head>
+
+<body onload="setTimeout(fetchHumans, 500)">
+    <a>fetch-ing humans :3</a>
+</body>
+
+</html>
