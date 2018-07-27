@@ -1,0 +1,19 @@
+<html>
+  <head>
+    <title>Hi</title>
+    <meta charset="utf-8">
+    <style>
+      body {
+        font-family: courier, monospace;
+        padding: 10% 15px;
+        text-align: center;
+        font-size: 15px;
+        line-height: 1.65em;
+      }
+    </style>
+  </head>
+  <body>
+    Hi there, I'm Kelsey from Colorado.<br>
+    I do not study coding but want a T-shirt.<br>
+  </body>
+</html>
