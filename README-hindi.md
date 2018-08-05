@@ -14,6 +14,7 @@
 - [`Руководство на русском`](README-ru.md)
 - [`বাংলা গাইড`](README-bn.md)
 - [`मला वाचा`](README-mar.md)
+- [`Panduan dalam Bahasa Indonesia`](README-id.md)
 
 
 # सुनिश्चित नहीं हैं कि क्या करना है?

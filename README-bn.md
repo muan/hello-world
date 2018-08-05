@@ -11,6 +11,7 @@
 - [ `Readme ই.এম. পর্তুগীজ (বিআর)`] (README-ptBR.md)
 - [ `Readme en Español (এলএ)`] (README-spLA.md)
 - [ `Руководство на русском`] (README-ru.md)
+- [`Panduan dalam Bahasa Indonesia`](README-id.md)
 
 ### কি করতে হবে তা নিশ্চিত না?
 
