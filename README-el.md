@@ -15,6 +15,7 @@
 - [`मुझे पढें`](README-hindi.md)
 - [`मला वाचा`](README-mar.md)
 - [`Οδηγίες στα Ελληνικά`](README-el.md)
+- [`Panduan dalam Bahasa Indonesia`](README-id.md)
 
 ### Δεν είστε σίγουροι για το τι πρέπει να κάνετε?
 

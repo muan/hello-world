@@ -15,6 +15,7 @@ If you're looking for resources to learn about web programming, checkout @jlord'
 - [`मुझे पढें`](README-hindi.md)
 - [`मला वाचा`](README-mar.md)
 - [`Οδηγίες στα Ελληνικά`](README-el.md)
+- [`Panduan dalam Bahasa Indonesia`](README-id.md)
 
 ### Not sure what to do?
 
