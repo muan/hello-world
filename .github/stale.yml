@@ -1,0 +1,29 @@
+# Number of days of inactivity before an issue becomes stale
+daysUntilStale: 14
+# Number of days of inactivity before a stale issue is closed
+daysUntilClose: 14
+# Issues with these labels will never be considered stale
+exemptLabels:
+  - PR: unreviewed
+  - enhancement
+  - help wanted
+  - question
+# Label to use when marking an issue as stale
+staleLabel: PR: stale
+# Comment to post when marking an issue as stale. Set to `false` to disable
+markComment: >
+  Hi! Looks like a maintainer has requested change on your pull request. 
+  Once you make the changes, we will review this pull request again.
+
+  These links might be helpful:
+  
+  - [How to make changes on my fork/branch?](https://help.github.com/articles/committing-changes-to-a-pull-request-branch-created-from-a-fork/)
+  - [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+  
+  Please do comment if the requested changes weren't clear or if you would like any help to figure out the next course of action.
+# Comment to post when closing a stale issue. Set to `false` to disable
+closeComment: >
+  Hi! Looks like you haven't been able to make the requested changes from our maintainers.  
+  We will close this pull request for now. Feel free to open another pull request whenever you're ready!
+  And again, let us know if you need any help or clarification on what to do next.
+ 
