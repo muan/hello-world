@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <style>
+        .hello {
+width: 200px;
+height: 200px;
+color: white;
+background-color: black;
+-webkit-animation-name: helloWorld; /* Safari 4.0 - 8.0 */
+-webkit-animation-duration: 5s; /* Safari 4.0 - 8.0 */
+animation-name: helloWorld;
+animation-duration: 7s;
+text-align: center;
+}
+
+@-webkit-keyframes helloWorld {
+    from {background-color: black;}
+    to {background-color: purple;}
+}
+
+@keyframes helloWorld {
+    from {background-color:black;}
+    to {background-color: purple;}
+}
+
+#textbounce {
+    -webkit-animation: moving 7s;
+    animation: moving 7s;
+}
+@keyframes moving {
+    from {transform: translateY(0px);}
+    to {transform: translateY(150px);}
+}
+        </style>
+    <div class = "hello"> 
+       <h1 id = "textbounce">Hello World, Im Sean</h1>
+    </div>
+</body>
+
+</html>
