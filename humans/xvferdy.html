@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Whoooah, im here</title>
+    <style>
+        body {
+            background-color: AliceBlue;
+            font-family: courier, monospace;
+            padding: 10% 15px;
+            text-align: center;
+            font-size: 13px;
+            line-height: 1.65em;
+        }
+    </style>
+</head>
+
+<body onload="startTime()">
+    <p>
+        Hello, world! I am <a href="https://github.com/xvferdy" target="_blank">@xvferdy</a>.
+    </p>
+
+    <h1>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit.
+        Vero repudiandae facilis illum aspernatur sed facere
+        similique,
+        deleniti soluta autem ab fugiat corporis neque, perferendis odio sit expedita.
+        In, dolores eum.
+    </h1>
+    <div id="txt"></div>
+    😍
+
+    <script>
+        h1Node = document.querySelector("h1");
+
+        function buatEfek() {
+            if (h1Node.style.color === "red") {
+                h1Node.style.color = "blue";
+            } else {
+                h1Node.style.color = "red";
+            }
+        }
+
+        setInterval(buatEfek, 200);
+
+        function startTime() {
+            var today = new Date();
+            var h = today.getHours();
+            var m = today.getMinutes();
+            var s = today.getSeconds();
+            m = checkTime(m);
+            s = checkTime(s);
+            document.getElementById('txt').innerHTML =
+                h + ":" + m + ":" + s;
+            var t = setTimeout(startTime, 500);
+        }
+
+        function checkTime(i) {
+            if (i < 10) {
+                i = "0" + i
+            }; // add zero in front of numbers < 10
+            return i;
+        }
+    </script>
+</body>
+
+</html>
