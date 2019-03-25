@@ -8,8 +8,8 @@
 
 - [ `正 體 中文 的 介紹 檔案`] (README-zhtw.md)
 - [ `简体 中文 的 介绍 文件`] (README-zhcn.md)
-- [ `Readme ই.এম. পর্তুগীজ (বিআর)`] (README-ptBR.md)
-- [ `Readme en Español (এলএ)`] (README-spLA.md)
+- [ `Readme em Português (BR)ে`] (README-ptBR.md)
+- [ `Readme en Español (LA)`] (README-spLA.md)
 - [ `Руководство на русском`] (README-ru.md)
 - [`Panduan dalam Bahasa Indonesia`](README-id.md)
 
