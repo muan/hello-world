@@ -4,12 +4,12 @@ daysUntilStale: 14
 daysUntilClose: 14
 # Issues with these labels will never be considered stale
 exemptLabels:
-  - PR: unreviewed
-  - enhancement
-  - help wanted
-  - question
+  - "PR: unreviewed"
+  - "enhancement"
+  - "help wanted"
+  - "question"
 # Label to use when marking an issue as stale
-staleLabel: PR: stale
+staleLabel: "PR: stale"
 # Comment to post when marking an issue as stale. Set to `false` to disable
 markComment: >
   Hi! Looks like a maintainer has requested change on your pull request. 
