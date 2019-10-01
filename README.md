@@ -39,7 +39,7 @@ It's hard to get started when you're not sure about what to do, so here are some
 
 Feel free to [**create an issue**](https://github.com/muan/hello-world/issues/new) when you have questions.
 
-### Finally
+### Finally...
 
 This repository should be safe place for everyone to try things in. Be nice to each other.
 
