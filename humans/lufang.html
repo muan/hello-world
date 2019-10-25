@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>hello world</title>
+  <style>
+    body {
+      width: 100vw;
+      height: 100vh;
+      font-family: courier, monospace;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      font-size: 13px;
+      line-height: 1.65em;
+      margin: 0;
+      background-image: linear-gradient(45deg, #f3ffd9, #ffe4e4, #fffce6);
+    }
+
+    body:before {
+      background-image: linear-gradient(300deg, #e9ffba, #f0f0f0, #ffeccf);
+      animation: you infinite alternate 1s;
+      content: '';
+      display: block;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      z-index: -1;
+    }
+
+    @keyframes you {
+      0% {
+        opacity: 0;
+      }
+
+      100% {
+        opacity: 1;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <p>Hi, this is lufang.html.</p>
+</body>
+
+</html>
