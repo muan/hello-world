@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Survey Form Project</title>
+  <style>
+  header {
+  text-align: center;
+}
+
+#survey-form {
+  display: flex;
+  flex-direction: column;
+  margin: 10px auto;
+  max-width: 80vw;
+}
+
+#survey-form label {
+  margin: 10px;
+  font-size: large;
+  font-weight: 200;
+}
+</style>
+</head>
+
+<body>
+  <header>
+    <h1 id="title">
+      My Project Survey Form
+    </h1>
+    <p id="description">
+      Fill out the form to take part in survey.
+    </p>
+  </header>
+  <form action="" id="survey-form">
+    <label for="name" id="name-label">Name</label>
+    <input type="text" id="name" required name="name" placeholder="Enter your name">
+    <label for="email" id="email-label">Email</label>
+    <input type="email" id="email" name="email" placeholder="Enter your email" required>
+    <label for="number" id="number-label">Age</label>
+    <input type="number" id="number" min="2" max="20" placeholder="Enter your age">
+    <label for="dropdown">Select your profession</label>
+    <select name="dropdown" id="dropdown">
+      <option value="Teacher">Teacher</option>
+      <option value="Student">Student</option>
+    </select>
+    <div>
+      <p>Do You like it?</p>
+      <label for="Yes">Yes</label>
+      <input type="radio" name="radio" id="Yes" value="Yes">
+      <label for="No">No</label>
+      <input type="radio" name="radio" id="No" value="No">
+      <label for="Maybe">Maybe</label>
+      <input type="radio" name="radio" id="Maybe" value="Maybe">
+    </div>
+    <div>
+      <p>You code as..</p>
+      <label for="hobby">Hobby</label>
+      <input type="checkbox" name="checkbox" id="hobby" value="Hobby">
+      <label for="profession">Profession</label>
+      <input type="checkbox" name="checkbox" id="profession" value="Profession">
+      <label for="teacher">Teacher</label>
+      <input type="checkbox" name="checkbox" id="teacher" value="Teacher">
+    </div>
+    <label for="comments">Write Your Comment</label>
+    <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+    <button id="submit">Submit</button>
+  </form>
+
+  <script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+</body>
+
+</html>
