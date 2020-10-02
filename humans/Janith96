@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+        <title>Ekanayaka EMTP</title>
+    </head>
+    <body>
+
+        <!--Navigation Menu-->
+        <div class="topnav">
+            <a class="active" href="index.html">Personal Information</a>
+            <a href="qualifications.html">Qualifications</a>
+            <a href="skills.html">Skills Performed</a>
+            <a href="gallery.html">Photo Gallery</a>
+          </div> 
+<!--Left right side-->
+
+<div class="row">
+    <!--Replace image url-->
+    <div class="column" style="background-color:rgb(255, 255, 255);">
+        <img src="image.png" alt="My photo" width="400" height="300" class="center"> 
+    </div>
+
+    <!--Replace Home page text-->
+    <div class="column" style="background-color:rgb(255, 255, 255);">
+        <H2>Name : Ekanayaka EMTP</H2>
+        <p>
+        BSC Management (UG), RUSL</br><!--br tag is for line breaks-->
+        MAAT
+        </p>
+        <p>Theme : Nature Lover</p>
+        <p>Address : No 117/A Malwatta road,</br>
+        Godakawela</p>
+        <p>Education : Primary and Secondary</br>
+            - R/Dharmapala Navodya School</br>
+        </br>
+        Tertiary </br>
+            - Rajarata University of Sri Lanka
+        </p>
+        <p>
+            Passion : Become the leading Entrepreneur in flowery plantation industry in Sri Lanka
+        </p>
+    </div>
+  </div> 
+
+    </body>
+</html>
