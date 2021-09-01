@@ -1,4 +1,4 @@
-## Maintainers
+## Maintainer
 
 - [muan](https://github.com/muan)
 - [alfredxing](https://github.com/alfredxing)
